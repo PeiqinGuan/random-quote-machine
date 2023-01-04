@@ -1,0 +1,25 @@
+body {
+    background: #16a085;
+}
+
+#quote-box {
+    width: 600px;
+}
+
+#quote-text {
+    text-align: center;
+    height: auto;
+    clear: both;
+    font-weight: 500;
+    font-size: 1.75em;
+}
+
+
+#quote-text i {
+    margin-right: 0.4em;
+}
+
+a {
+    margin: 0 2px;
+    width: 40px;
+}
